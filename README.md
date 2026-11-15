@@ -87,27 +87,6 @@ I'm a Full Stack Developer passionate about building scalable applications, solv
 
 ---
 
-## 🚀 Featured Projects
-
-Explore my repositories to see my development work and technical projects.
-
-[View My Repositories](https://github.com/MuvvaSwathi-tech?tab=repositories)
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuvvaSwathi-tech&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuvvaSwathi-tech&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MuvvaSwathi-tech&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p>
@@ -120,5 +99,3 @@ Explore my repositories to see my development work and technical projects.
 </p>
 
 ---
-
-⭐ *Always learning, building, and exploring new technologies.*
